@@ -37,9 +37,9 @@
   <footer>
     <p>© 2024 Redeem Dance Club. All Rights Reserved</p>
     <ul>
-      <li><img src="" alt="" /></li>
-      <li><img src="" alt="" /></li>
-      <li><img src="" alt="" /></li>
+      <li><img src="/static/whatsapp-filled.png" alt="" /></li>
+      <li><img src="/static/youtube.png" alt="" /></li>
+      <li><img src="/static/whatsapp-2.gif" alt="" /></li>
     </ul>
   </footer>
 </template>
@@ -141,6 +141,10 @@ a:hover {
   text-align: center;
   color: #fff;
   font-size: 20px;
+}
+footer {
+  margin-top: 40px;
+  display: flex;
 }
 </style>
 
