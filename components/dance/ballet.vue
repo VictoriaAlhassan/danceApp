@@ -32,31 +32,29 @@
           <span class="songs">Sleeping Beauty </span>by Pyotr Ilyich Tchaikovsky
         </li>
       </ul>
-      <DanceButton />
+      <a href="https://www.youtube.com/watch?v=o-QA_AQNhm8"> <DanceButton /></a>
+
       <!-- <button class="ballet">Larn more</button> -->
     </div>
   </div>
   <div class="ballet-container">
     <div>
       <p class="jazz-description">
-        Ballet is a beautiful and demanding art form that originated in<br />
-        Renaissance Italy. It combines athleticism and artistry, <br />requiring
-        dancers to possess incredible flexibility, <br />
-        strength, and coordination. Ballet dancers tell stories through their<br />
-        bodies, using precise movements and elegant poses to <br />express
-        emotions and ideas.<br />
-        Below are a list of songs for ballet dancing.
+        Jazz Funk is a captivating dance style that blends the<br />
+        dynamic energy of hip-hop with the smooth expressiveness<br />
+        of jazz dance. It emerged from street corners and nightclubs,<br />
+        creating a space for dancers to showcase their individuality <br />and
+        creativity. Below are songs one can use
       </p>
       <ul class="list">
+        <li><span class="songs">Get Up</span> by James Brown</li>
+        <li><span class="songs">Rapture </span>by Blondie</li>
         <li>
-          <span class="songs">Swan Lake</span> by Pyotr Ilyich Tchaikovsky
-        </li>
-        <li><span class="songs">Giselle </span>by Adolphe Adam</li>
-        <li>
-          <span class="songs">Sleeping Beauty </span>by Pyotr Ilyich Tchaikovsky
+          <span class="songs">Can't stop the feeling</span>by Pyotr Justin
+          Timberlake
         </li>
       </ul>
-      <DanceButton />
+      <a href="https://www.youtube.com/watch?v=ZUcVdhAAmSE"> <DanceButton /></a>
     </div>
     <div>
       <div class="image-container">
@@ -85,44 +83,45 @@
     </div>
     <div>
       <p class="ballet-description">
-        Ballet is a beautiful and demanding art form that originated in<br />
-        Renaissance Italy. It combines athleticism and artistry, <br />requiring
-        dancers to possess incredible flexibility, <br />
-        strength, and coordination. Ballet dancers tell stories through their<br />
-        bodies, using precise movements and elegant poses to <br />express
-        emotions and ideas.<br />
-        Below are a list of songs for ballet dancing.
+        Hip hop dance is a dynamic and expressive art <br />form born on the
+        streets. It's a powerful mix<br />
+        of athleticism, musicality, and personal style. From popping <br />and
+        locking to breaking and breaking, hip hop dance allows<br />
+        dancers to tell stories and express themselves<br />
+        through movement. Below are a list of songs for ballet dancing.
       </p>
       <ul class="list">
+        <li><span class="songs">Hot in Herre</span> by Nelly</li>
+        <li><span class="songs">Crazy in Love </span>by Beyoncé ft. Jay-Z</li>
         <li>
-          <span class="songs">Swan Lake</span> by Pyotr Ilyich Tchaikovsky
-        </li>
-        <li><span class="songs">Giselle </span>by Adolphe Adam</li>
-        <li>
-          <span class="songs">Sleeping Beauty </span>by Pyotr Ilyich Tchaikovsky
+          <span class="songs">Can't Hold Us </span>by Macklemore & Ryan Lewis
         </li>
       </ul>
-      <DanceButton />
+      <a href="https://www.youtube.com/watch?v=h3DSYn2jIKE"> <DanceButton /></a>
+
       <!-- <button class="ballet">Larn more</button> -->
     </div>
   </div>
   <div class="ballet-container">
     <div>
       <p class="ballet-description">
-        Ballet is a beautiful and demanding art form that originated in<br />
-        Renaissance Italy. It combines athleticism and artistry, <br />requiring
-        dancers to possess incredible flexibility, <br />
-        strength, and coordination. Ballet dancers tell stories through their<br />
-        bodies, using precise movements and elegant poses to <br />express
-        emotions and ideas.<br />
+        Breakdancing, also known as b-boying or breaking, is an explosive<br />
+        and acrobatic dance style. It originated on the streets as part of<br />
+        hip hop culture and has evolved into a physically demanding<br />
+        and visually stunning art form. Breakdancing features dynamic floor
+        work<br />
+        like headstands, freezes, and power moves that defy gravity.<br />
         Below are a list of songs for ballet dancing.
       </p>
       <ul class="list">
-        <li><span>Swan Lake</span> by Pyotr Ilyich Tchaikovsky</li>
-        <li><span s>Giselle </span>by Adolphe Adam</li>
-        <li><span>Sleeping Beauty </span>by Pyotr Ilyich Tchaikovsky</li>
+        <li>
+          <span class="songs">Planet Rock</span> by Afrika Bambaataa & The
+          Soulsonic Force
+        </li>
+        <li><span class="songs">Apache</span>by The Incredible Bongo Band</li>
+        <li><span class="songs">Pump Up the Jam</span>by Technotronic</li>
       </ul>
-      <DanceButton />
+      <a href="https://www.youtube.com/watch?v=WB7QQl2_GQY"> <DanceButton /></a>
     </div>
     <div>
       <h1 class="jazz-heading"><span class="j">B</span>REAKDANCE</h1>
@@ -241,6 +240,9 @@
   width: 718;
   height: 1130;
 }
+/* .list li {
+  margin-left: 20%;
+} */
 .list {
   list-style-type: none;
   /* margin-left: 45%; */

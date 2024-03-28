@@ -1,5 +1,5 @@
 <template>
-  <h4 class="about">.01 ABOUT US</h4>
+  <h4 class="about"><span class="underline">.01 ABO</span>UT US</h4>
   <div class="about-container">
     <div class="writeUp">
       <h2 class="heading">#1 DANCE <br />STUDIO.</h2>
@@ -48,7 +48,12 @@
   letter-spacing: 7px;
 }
 .about {
-  margin-left: 25%;
+  /* margin-left: 25%; */
+  margin-left: 15%;
+  /* margin-top: 5%; */
+  font-size: 30px;
+  word-spacing: 3px;
+  letter-spacing: 2px;
 }
 .description {
   margin-left: 30px;
@@ -56,5 +61,9 @@
   word-spacing: 3px;
   letter-spacing: 1px;
   opacity: 0.5;
+}
+.underline {
+  border-bottom: 1px solid black; /* Define underline style */
+  padding-bottom: 5px; /* Add space between text and underline */
 }
 </style>
